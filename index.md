@@ -7,3 +7,6 @@ Welcome to My Home Page!
 
 - Original date - {{ date }}
 - With timeago filter - {{ date | timeago }}
+{{ test }}
+{{ site.env.test }}
+{{ env.test }}
